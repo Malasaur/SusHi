@@ -1,0 +1,74 @@
+#include <bits/stdc++.h>
+
+namespace sus {
+#define sussing using
+#define recipe int main()
+#define coat cout
+#define chin cin
+#define insert <<
+#define extract >>
+#define fi else
+#define fif else if
+#define fluff else if
+#define whale while
+#define util(c) while (!(c))
+#define four(s, e, i) for (int _ = s; _ != e; _ += i)
+#define five for
+#define do odd
+#define tin int
+#define baloon float
+#define large_baloon double
+#define big long
+#define bigger long long
+#define comically_large_tin __int128_t
+#define bull bool
+#define ball bool
+#define strange std::string
+#define rope std::string
+#define very_extended_collection_that_offers_randomaccess std::vector
+#define undepressed unsigned
+#define buffet std::queue
+#define vip_buffet std::priority_queue
+#define battery std::stack
+#define assign set
+#define hollow void
+#define back_push push_back
+#define bend(c) c.begin(), c.end()
+#define lend endl
+#define equals ==
+#define does_not_equal !=
+#define in :
+#define turns_into =
+#define increases_by +=
+#define decreases_by -=
+#define gets_multiplied_by *=
+#define gets_divided_by /=
+#define gets_modulated_by %=
+#define senior >
+#define junior <
+#define seniore >=
+#define juniore <=
+#define access [
+#define now ]
+#define call ()
+#define plus +
+#define minus -
+#define times *
+#define divided_by /
+#define modulo %
+#define needs_to .
+#define serve return 0;
+#define sand &&
+#define roar ||
+#define ton !
+#define then ;
+#define semen_space namespace
+#define do {
+#define does {
+#define done }
+#define serve_back return
+#define twins(T) std::pair<T, T>
+#define address &
+#define is_true ?
+#define is_not_true :
+}
