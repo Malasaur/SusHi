@@ -94,11 +94,11 @@ tin a turns_into 0 then
 If a can is not enough to contain your number (or you just need more than 32 bits), you can use a `bigger tin`. This tin can should be able to fit most of your number requirements (there is also a `big tin`, but damn `big tin` and `tin` are the same thing or smth idk).
 
 ```c++
-bigger tin b;
+bigger tin b then
 ```
 
 If a bigger can is still not enough (and I'd be afraid to ask you why), you can switch to a `comically_large_tin`. Yes, that's really it (a 128 bit number)
 
 ```c++
-comically_large_tin c;
+comically_large_tin c then
 ```
