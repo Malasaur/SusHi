@@ -43,13 +43,14 @@ namespace sus {
 
 // Types
 #define tin int
-#define baloon float
-#define large_baloon double
 #define big long
 #define bigger long long
 #define comically_large_tin __int128_t
-#define bull bool
+#define balloon float
+#define large_balloon double
+#define boul bool
 #define ball bool
+#define chalk char
 #define strange std::string
 #define rope std::string
 #define very_extended_collection_that_offers_randomaccess std::vector
